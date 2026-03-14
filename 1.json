@@ -1,0 +1,2094 @@
+[
+  {
+    "id": 1,
+    "name": "信息学院北门周记馄饨",
+    "image_url": "https://loremflickr.com/800/600/food?lock=1",
+    "price_per_person": 21,
+    "distance_from_dorm": "闻着辣味就能找到",
+    "scenarios": [
+      "🍻 寝室团建",
+      "🔥 辣到怀疑人生"
+    ],
+    "red_votes": 116,
+    "black_votes": 46,
+    "meme_tags": [
+      "#一碗热汤续命",
+      "#清爽不负担",
+      "#早八友好"
+    ],
+    "student_review": "价格很友好，桌面卫生看当天运气。",
+    "founder": "系统默认"
+  },
+  {
+    "id": 2,
+    "name": "软件园校区南口老张砂锅饭",
+    "image_url": "https://loremflickr.com/800/600/food?lock=2",
+    "price_per_person": 18,
+    "distance_from_dorm": "操场边便利店旁",
+    "scenarios": [
+      "🏃 赶时间",
+      "🍚 单人速决"
+    ],
+    "red_votes": 51,
+    "black_votes": 16,
+    "meme_tags": [
+      "#锅巴香",
+      "#下课就冲",
+      "#热乎顶饱",
+      "#三分钟拿餐"
+    ],
+    "student_review": "辣得我冒汗，但真的越吃越上头。",
+    "founder": "系统默认"
+  },
+  {
+    "id": 3,
+    "name": "传媒学院旁六块六煲仔饭",
+    "image_url": "https://loremflickr.com/800/600/food?lock=3",
+    "price_per_person": 27,
+    "distance_from_dorm": "自习室楼下",
+    "scenarios": [
+      "📚 图书馆周边",
+      "👩‍❤️‍👨 适合约会"
+    ],
+    "red_votes": 111,
+    "black_votes": 31,
+    "meme_tags": [
+      "#焦香很上头",
+      "#等得久但值",
+      "#酱油拌饭灵魂",
+      "#复习间隙回血"
+    ],
+    "student_review": "图书馆熬到发木，来这家立刻回魂。",
+    "founder": "系统默认"
+  },
+  {
+    "id": 4,
+    "name": "法学院南街北门王叔烤冷面",
+    "image_url": "https://loremflickr.com/800/600/food?lock=4",
+    "price_per_person": 13,
+    "distance_from_dorm": "23点后还亮灯那家",
+    "scenarios": [
+      "🏃 赶时间",
+      "🌙 深夜食堂"
+    ],
+    "red_votes": 94,
+    "black_votes": 80,
+    "meme_tags": [
+      "#晚自习门口常客",
+      "#酸甜口真上瘾",
+      "#加肠才完整",
+      "#三分钟拿餐",
+      "#赶课也来得及"
+    ],
+    "student_review": "能吃饱没问题，别对装修抱幻想。",
+    "founder": "系统默认"
+  },
+  {
+    "id": 5,
+    "name": "外院后门林记牛肉粉",
+    "image_url": "https://loremflickr.com/800/600/food?lock=5",
+    "price_per_person": 25,
+    "distance_from_dorm": "研究生公寓对面",
+    "scenarios": [
+      "🍻 寝室团建",
+      "🌙 深夜食堂"
+    ],
+    "red_votes": 181,
+    "black_votes": 65,
+    "meme_tags": [
+      "#汤底在线",
+      "#吸溜两口回魂",
+      "#牛肉比想象多",
+      "#四个人点最爽"
+    ],
+    "student_review": "一口下去很实在，像被生活放过了。",
+    "founder": "系统默认"
+  },
+  {
+    "id": 6,
+    "name": "体院路口牛气锅贴",
+    "image_url": "https://loremflickr.com/800/600/food?lock=6",
+    "price_per_person": 14,
+    "distance_from_dorm": "食堂旁边小过道",
+    "scenarios": [
+      "🍚 单人速决"
+    ],
+    "red_votes": 143,
+    "black_votes": 74,
+    "meme_tags": [
+      "#外脆里香",
+      "#一口一个停不下",
+      "#蘸醋更绝",
+      "#一个人吃也自在"
+    ],
+    "student_review": "量够，环境就别按约会标准要求。",
+    "founder": "系统默认"
+  },
+  {
+    "id": 7,
+    "name": "警院西门老张馄饨",
+    "image_url": "https://loremflickr.com/800/600/food?lock=7",
+    "price_per_person": 28,
+    "distance_from_dorm": "人工湖边上",
+    "scenarios": [
+      "👩‍❤️‍👨 适合约会"
+    ],
+    "red_votes": 100,
+    "black_votes": 38,
+    "meme_tags": [
+      "#一碗热汤续命",
+      "#清爽不负担",
+      "#早八友好",
+      "#灯光比你会说话"
+    ],
+    "student_review": "不算惊艳，但属于想不到雷点那种。",
+    "founder": "系统默认"
+  },
+  {
+    "id": 8,
+    "name": "师大东门陈姐盖浇饭",
+    "image_url": "https://loremflickr.com/800/600/food?lock=8",
+    "price_per_person": 24,
+    "distance_from_dorm": "自习室楼下",
+    "scenarios": [
+      "📚 图书馆周边",
+      "👩‍❤️‍👨 适合约会"
+    ],
+    "red_votes": 197,
+    "black_votes": 3,
+    "meme_tags": [
+      "#出餐快得离谱",
+      "#肉汁拌饭很稳",
+      "#平价但不敷衍",
+      "#复习间隙回血"
+    ],
+    "student_review": "一口下去很实在，像被生活放过了。",
+    "founder": "系统默认"
+  },
+  {
+    "id": 9,
+    "name": "研究生公寓外牛气小碗菜",
+    "image_url": "https://loremflickr.com/800/600/food?lock=9",
+    "price_per_person": 23,
+    "distance_from_dorm": "后街路口第一家",
+    "scenarios": [
+      "🔥 辣到怀疑人生",
+      "🍚 单人速决"
+    ],
+    "red_votes": 167,
+    "black_votes": 17,
+    "meme_tags": [
+      "#选择困难也能活",
+      "#荤素配得明白",
+      "#食堂平替",
+      "#辣到醒神",
+      "#纸巾消耗大户"
+    ],
+    "student_review": "图书馆熬到发木，来这家立刻回魂。",
+    "founder": "系统默认"
+  },
+  {
+    "id": 10,
+    "name": "商学院小吃街胖嫂锅贴",
+    "image_url": "https://loremflickr.com/800/600/food?lock=10",
+    "price_per_person": 22,
+    "distance_from_dorm": "研究生公寓对面",
+    "scenarios": [
+      "🍻 寝室团建",
+      "🔥 辣到怀疑人生"
+    ],
+    "red_votes": 205,
+    "black_votes": 37,
+    "meme_tags": [
+      "#外脆里香",
+      "#一口一个停不下",
+      "#蘸醋更绝",
+      "#四个人点最爽",
+      "#室友一致通过"
+    ],
+    "student_review": "图书馆熬到发木，来这家立刻回魂。",
+    "founder": "系统默认"
+  },
+  {
+    "id": 11,
+    "name": "材料学院侧门炭火盖浇饭",
+    "image_url": "https://loremflickr.com/800/600/food?lock=11",
+    "price_per_person": 22,
+    "distance_from_dorm": "操场边便利店旁",
+    "scenarios": [
+      "📚 图书馆周边",
+      "🍚 单人速决"
+    ],
+    "red_votes": 88,
+    "black_votes": 13,
+    "meme_tags": [
+      "#出餐快得离谱",
+      "#肉汁拌饭很稳",
+      "#平价但不敷衍",
+      "#复习间隙回血"
+    ],
+    "student_review": "便宜但不敷衍，月末也能吃得像样。",
+    "founder": "系统默认"
+  },
+  {
+    "id": 12,
+    "name": "中医药门口胖嫂手抓饼",
+    "image_url": "https://loremflickr.com/800/600/food?lock=12",
+    "price_per_person": 9,
+    "distance_from_dorm": "北门快递站后面",
+    "scenarios": [
+      "📚 图书馆周边",
+      "💸 吃土期（<15元）",
+      "🍻 寝室团建"
+    ],
+    "red_votes": 163,
+    "black_votes": 3,
+    "meme_tags": [
+      "#早八救命",
+      "#边走边炫",
+      "#十块钱的幸福"
+    ],
+    "student_review": "图书馆熬到发木，来这家立刻回魂。",
+    "founder": "系统默认"
+  },
+  {
+    "id": 13,
+    "name": "外院后门老地方牛肉粉",
+    "image_url": "https://loremflickr.com/800/600/food?lock=13",
+    "price_per_person": 33,
+    "distance_from_dorm": "靠近校园咖啡馆那排",
+    "scenarios": [
+      "👩‍❤️‍👨 适合约会"
+    ],
+    "red_votes": 72,
+    "black_votes": 9,
+    "meme_tags": [
+      "#汤底在线",
+      "#吸溜两口回魂",
+      "#牛肉比想象多",
+      "#灯光比你会说话"
+    ],
+    "student_review": "红榜：牛肉粉稳得像学霸平时分。",
+    "founder": "系统默认"
+  },
+  {
+    "id": 14,
+    "name": "经管楼后排锅气手抓饼",
+    "image_url": "https://loremflickr.com/800/600/food?lock=14",
+    "price_per_person": 11,
+    "distance_from_dorm": "校医院斜对面",
+    "scenarios": [
+      "🍚 单人速决"
+    ],
+    "red_votes": 215,
+    "black_votes": 6,
+    "meme_tags": [
+      "#早八救命",
+      "#边走边炫",
+      "#十块钱的幸福"
+    ],
+    "student_review": "辣得我冒汗，但真的越吃越上头。",
+    "founder": "系统默认"
+  },
+  {
+    "id": 15,
+    "name": "文学院夜宵巷川渝砂锅饭",
+    "image_url": "https://loremflickr.com/800/600/food?lock=15",
+    "price_per_person": 15,
+    "distance_from_dorm": "文科楼和图书馆之间",
+    "scenarios": [
+      "📚 图书馆周边",
+      "💸 吃土期（<15元）"
+    ],
+    "red_votes": 227,
+    "black_votes": 73,
+    "meme_tags": [
+      "#锅巴香",
+      "#下课就冲",
+      "#热乎顶饱"
+    ],
+    "student_review": "辣得我冒汗，但真的越吃越上头。",
+    "founder": "@夜宵指挥官"
+  },
+  {
+    "id": 16,
+    "name": "海事学院后街北门王叔馄饨",
+    "image_url": "https://loremflickr.com/800/600/food?lock=16",
+    "price_per_person": 25,
+    "distance_from_dorm": "南门外烧烤一条街",
+    "scenarios": [
+      "🍻 寝室团建"
+    ],
+    "red_votes": 232,
+    "black_votes": 32,
+    "meme_tags": [
+      "#一碗热汤续命",
+      "#清爽不负担",
+      "#早八友好",
+      "#四个人点最爽"
+    ],
+    "student_review": "辣得我冒汗，但真的越吃越上头。",
+    "founder": "@校园地图活体"
+  },
+  {
+    "id": 17,
+    "name": "法学院南街锅气拌面",
+    "image_url": "https://loremflickr.com/800/600/food?lock=17",
+    "price_per_person": 29,
+    "distance_from_dorm": "文科楼和图书馆之间",
+    "scenarios": [
+      "📚 图书馆周边",
+      "👩‍❤️‍👨 适合约会"
+    ],
+    "red_votes": 100,
+    "black_votes": 51,
+    "meme_tags": [
+      "#嗦面很解压",
+      "#酱香拉满",
+      "#午休五分钟也能吃",
+      "#复习间隙回血"
+    ],
+    "student_review": "价格很友好，桌面卫生看当天运气。",
+    "founder": "系统默认"
+  },
+  {
+    "id": 18,
+    "name": "实验楼拐角陈姐盖浇饭",
+    "image_url": "https://loremflickr.com/800/600/food?lock=18",
+    "price_per_person": 23,
+    "distance_from_dorm": "校门口最后收摊的一排",
+    "scenarios": [
+      "🔥 辣到怀疑人生",
+      "🌙 深夜食堂"
+    ],
+    "red_votes": 123,
+    "black_votes": 16,
+    "meme_tags": [
+      "#出餐快得离谱",
+      "#肉汁拌饭很稳",
+      "#平价但不敷衍"
+    ],
+    "student_review": "一口下去很实在，像被生活放过了。",
+    "founder": "@宿舍长本人"
+  },
+  {
+    "id": 19,
+    "name": "城建学院东门阿强手抓饼",
+    "image_url": "https://loremflickr.com/800/600/food?lock=19",
+    "price_per_person": 21,
+    "distance_from_dorm": "夜宵街第二排",
+    "scenarios": [
+      "🍻 寝室团建"
+    ],
+    "red_votes": 164,
+    "black_votes": 91,
+    "meme_tags": [
+      "#早八救命",
+      "#边走边炫",
+      "#十块钱的幸福",
+      "#四个人点最爽",
+      "#室友一致通过"
+    ],
+    "student_review": "能吃饱没问题，别对装修抱幻想。",
+    "founder": "系统默认"
+  },
+  {
+    "id": 20,
+    "name": "城建学院东门老张砂锅饭",
+    "image_url": "https://loremflickr.com/800/600/food?lock=20",
+    "price_per_person": 23,
+    "distance_from_dorm": "图书馆后街第一家",
+    "scenarios": [
+      "📚 图书馆周边",
+      "🍚 单人速决"
+    ],
+    "red_votes": 73,
+    "black_votes": 27,
+    "meme_tags": [
+      "#锅巴香",
+      "#下课就冲",
+      "#热乎顶饱",
+      "#复习间隙回血"
+    ],
+    "student_review": "便宜但不敷衍，月末也能吃得像样。",
+    "founder": "系统默认"
+  },
+  {
+    "id": 21,
+    "name": "经管楼后排阿姨水饺",
+    "image_url": "https://loremflickr.com/800/600/food?lock=21",
+    "price_per_person": 14,
+    "distance_from_dorm": "校医院斜对面",
+    "scenarios": [
+      "🏃 赶时间",
+      "🍚 单人速决"
+    ],
+    "red_votes": 209,
+    "black_votes": 53,
+    "meme_tags": [
+      "#蘸料是本体",
+      "#吃着像回家",
+      "#北方胃会点头"
+    ],
+    "student_review": "图书馆熬到发木，来这家立刻回魂。",
+    "founder": "系统默认"
+  },
+  {
+    "id": 22,
+    "name": "软件园校区南口锅气煲仔饭",
+    "image_url": "https://loremflickr.com/800/600/food?lock=22",
+    "price_per_person": 32,
+    "distance_from_dorm": "艺术中心后面",
+    "scenarios": [
+      "📚 图书馆周边",
+      "👩‍❤️‍👨 适合约会"
+    ],
+    "red_votes": 51,
+    "black_votes": 16,
+    "meme_tags": [
+      "#焦香很上头",
+      "#等得久但值",
+      "#酱油拌饭灵魂",
+      "#复习间隙回血",
+      "#背书背饿了就来"
+    ],
+    "student_review": "红榜：煲仔饭稳得像学霸平时分。",
+    "founder": "@辣度不服输"
+  },
+  {
+    "id": 23,
+    "name": "师大东门川渝螺蛳粉",
+    "image_url": "https://loremflickr.com/800/600/food?lock=23",
+    "price_per_person": 18,
+    "distance_from_dorm": "操场边便利店旁",
+    "scenarios": [
+      "🍚 单人速决"
+    ],
+    "red_votes": 183,
+    "black_votes": 7,
+    "meme_tags": [
+      "#味大但真香",
+      "#宿舍慎点",
+      "#酸笋上头",
+      "#一个人吃也自在"
+    ],
+    "student_review": "图书馆熬到发木，来这家立刻回魂。",
+    "founder": "系统默认"
+  },
+  {
+    "id": 24,
+    "name": "新传院北门陈姐烤肉饭",
+    "image_url": "https://loremflickr.com/800/600/food?lock=24",
+    "price_per_person": 32,
+    "distance_from_dorm": "宿舍区外卖柜旁",
+    "scenarios": [
+      "🔥 辣到怀疑人生",
+      "🌙 深夜食堂"
+    ],
+    "red_votes": 119,
+    "black_votes": 91,
+    "meme_tags": [
+      "#肉量能打",
+      "#酱香控集合",
+      "#打工人快乐饭"
+    ],
+    "student_review": "深夜吃是真香，白天吃就普通点。",
+    "founder": "@自习室夜行动物"
+  },
+  {
+    "id": 25,
+    "name": "工大南一门川渝炸串",
+    "image_url": "https://loremflickr.com/800/600/food?lock=25",
+    "price_per_person": 27,
+    "distance_from_dorm": "步行到操场夜景区5分钟",
+    "scenarios": [
+      "👩‍❤️‍👨 适合约会"
+    ],
+    "red_votes": 184,
+    "black_votes": 20,
+    "meme_tags": [
+      "#深夜罪恶感",
+      "#排队闻着就饿",
+      "#边走边吃很快乐",
+      "#灯光比你会说话"
+    ],
+    "student_review": "赶时间也能吃热乎的，这点太关键。",
+    "founder": "系统默认"
+  },
+  {
+    "id": 26,
+    "name": "中医药门口老张小碗菜",
+    "image_url": "https://loremflickr.com/800/600/food?lock=26",
+    "price_per_person": 27,
+    "distance_from_dorm": "操场边便利店旁",
+    "scenarios": [
+      "🏃 赶时间",
+      "🍚 单人速决"
+    ],
+    "red_votes": 102,
+    "black_votes": 74,
+    "meme_tags": [
+      "#选择困难也能活",
+      "#荤素配得明白",
+      "#食堂平替"
+    ],
+    "student_review": "不算惊艳，但属于想不到雷点那种。",
+    "founder": "@饭搭子招募中"
+  },
+  {
+    "id": 27,
+    "name": "艺术中心后街锅气麻辣烫",
+    "image_url": "https://loremflickr.com/800/600/food?lock=27",
+    "price_per_person": 25,
+    "distance_from_dorm": "23点后还亮灯那家",
+    "scenarios": [
+      "🍻 寝室团建",
+      "🔥 辣到怀疑人生",
+      "🌙 深夜食堂"
+    ],
+    "red_votes": 133,
+    "black_votes": 64,
+    "meme_tags": [
+      "#菜随便夹",
+      "#辣度不讲武德",
+      "#选菜像做选择题",
+      "#四个人点最爽"
+    ],
+    "student_review": "味道在线，高峰期排队能劝退人。",
+    "founder": "@外卖柜常驻"
+  },
+  {
+    "id": 28,
+    "name": "外院后门锅气水饺",
+    "image_url": "https://loremflickr.com/800/600/food?lock=28",
+    "price_per_person": 18,
+    "distance_from_dorm": "二教楼下拐角",
+    "scenarios": [
+      "🏃 赶时间",
+      "🍚 单人速决"
+    ],
+    "red_votes": 62,
+    "black_votes": 56,
+    "meme_tags": [
+      "#蘸料是本体",
+      "#吃着像回家",
+      "#北方胃会点头",
+      "#三分钟拿餐"
+    ],
+    "student_review": "出餐快是真的，忙起来态度也很直。",
+    "founder": "@脆皮大学生"
+  },
+  {
+    "id": 29,
+    "name": "经管楼后排阿姨烤冷面",
+    "image_url": "https://loremflickr.com/800/600/food?lock=29",
+    "price_per_person": 24,
+    "distance_from_dorm": "人工湖边上",
+    "scenarios": [
+      "👩‍❤️‍👨 适合约会",
+      "🍻 寝室团建"
+    ],
+    "red_votes": 86,
+    "black_votes": 24,
+    "meme_tags": [
+      "#晚自习门口常客",
+      "#酸甜口真上瘾",
+      "#加肠才完整"
+    ],
+    "student_review": "赶时间也能吃热乎的，这点太关键。",
+    "founder": "系统默认"
+  },
+  {
+    "id": 30,
+    "name": "体院路口周记牛肉粉",
+    "image_url": "https://loremflickr.com/800/600/food?lock=30",
+    "price_per_person": 12,
+    "distance_from_dorm": "从打印店往里走20米",
+    "scenarios": [
+      "🌙 深夜食堂",
+      "💸 吃土期（<15元）"
+    ],
+    "red_votes": 169,
+    "black_votes": 3,
+    "meme_tags": [
+      "#汤底在线",
+      "#吸溜两口回魂",
+      "#牛肉比想象多",
+      "#十一点后更热闹"
+    ],
+    "student_review": "便宜但不敷衍，月末也能吃得像样。",
+    "founder": "系统默认"
+  },
+  {
+    "id": 31,
+    "name": "工大南一门老张铁板饭",
+    "image_url": "https://loremflickr.com/800/600/food?lock=31",
+    "price_per_person": 25,
+    "distance_from_dorm": "一教和宿舍中间",
+    "scenarios": [
+      "📚 图书馆周边",
+      "👩‍❤️‍👨 适合约会",
+      "🏃 赶时间"
+    ],
+    "red_votes": 179,
+    "black_votes": 25,
+    "meme_tags": [
+      "#滋啦一声很治愈",
+      "#酱汁拌饭王者",
+      "#香到室友抢一口",
+      "#复习间隙回血",
+      "#背书背饿了就来"
+    ],
+    "student_review": "辣得我冒汗，但真的越吃越上头。",
+    "founder": "系统默认"
+  },
+  {
+    "id": 32,
+    "name": "城建学院东门赵师傅米线",
+    "image_url": "https://loremflickr.com/800/600/food?lock=32",
+    "price_per_person": 29,
+    "distance_from_dorm": "人工湖边上",
+    "scenarios": [
+      "👩‍❤️‍👨 适合约会"
+    ],
+    "red_votes": 49,
+    "black_votes": 38,
+    "meme_tags": [
+      "#滑溜好入口",
+      "#汤喝完刚刚好",
+      "#趁热吃最稳",
+      "#灯光比你会说话"
+    ],
+    "student_review": "价格很友好，桌面卫生看当天运气。",
+    "founder": "系统默认"
+  },
+  {
+    "id": 33,
+    "name": "体育馆东巷林记麻辣烫",
+    "image_url": "https://loremflickr.com/800/600/food?lock=33",
+    "price_per_person": 21,
+    "distance_from_dorm": "校医院斜对面",
+    "scenarios": [
+      "🍚 单人速决"
+    ],
+    "red_votes": 159,
+    "black_votes": 5,
+    "meme_tags": [
+      "#菜随便夹",
+      "#辣度不讲武德",
+      "#选菜像做选择题"
+    ],
+    "student_review": "红榜：麻辣烫稳得像学霸平时分。",
+    "founder": "系统默认"
+  },
+  {
+    "id": 34,
+    "name": "农大北街拌面哥烤冷面",
+    "image_url": "https://loremflickr.com/800/600/food?lock=34",
+    "price_per_person": 14,
+    "distance_from_dorm": "从打印店往里走20米",
+    "scenarios": [
+      "🌙 深夜食堂",
+      "💸 吃土期（<15元）"
+    ],
+    "red_votes": 218,
+    "black_votes": 35,
+    "meme_tags": [
+      "#晚自习门口常客",
+      "#酸甜口真上瘾",
+      "#加肠才完整",
+      "#十一点后更热闹",
+      "#夜猫子集合"
+    ],
+    "student_review": "辣得我冒汗，但真的越吃越上头。",
+    "founder": "系统默认"
+  },
+  {
+    "id": 35,
+    "name": "城建学院东门胖嫂烤冷面",
+    "image_url": "https://loremflickr.com/800/600/food?lock=35",
+    "price_per_person": 10,
+    "distance_from_dorm": "旧食堂旁边那排小店",
+    "scenarios": [
+      "📚 图书馆周边",
+      "💸 吃土期（<15元）"
+    ],
+    "red_votes": 228,
+    "black_votes": 93,
+    "meme_tags": [
+      "#晚自习门口常客",
+      "#酸甜口真上瘾",
+      "#加肠才完整",
+      "#复习间隙回血"
+    ],
+    "student_review": "室友喊开冲时，这家基本没人反对。",
+    "founder": "@操场散步代表"
+  },
+  {
+    "id": 36,
+    "name": "实验楼拐角六块六牛肉粉",
+    "image_url": "https://loremflickr.com/800/600/food?lock=36",
+    "price_per_person": 21,
+    "distance_from_dorm": "操场边便利店旁",
+    "scenarios": [
+      "🔥 辣到怀疑人生",
+      "🍚 单人速决"
+    ],
+    "red_votes": 90,
+    "black_votes": 39,
+    "meme_tags": [
+      "#汤底在线",
+      "#吸溜两口回魂",
+      "#牛肉比想象多",
+      "#辣到醒神"
+    ],
+    "student_review": "深夜吃是真香，白天吃就普通点。",
+    "founder": "系统默认"
+  },
+  {
+    "id": 37,
+    "name": "师大东门阿强米线",
+    "image_url": "https://loremflickr.com/800/600/food?lock=37",
+    "price_per_person": 27,
+    "distance_from_dorm": "靠近校园咖啡馆那排",
+    "scenarios": [
+      "📚 图书馆周边",
+      "👩‍❤️‍👨 适合约会"
+    ],
+    "red_votes": 167,
+    "black_votes": 37,
+    "meme_tags": [
+      "#滑溜好入口",
+      "#汤喝完刚刚好",
+      "#趁热吃最稳",
+      "#复习间隙回血"
+    ],
+    "student_review": "便宜但不敷衍，月末也能吃得像样。",
+    "founder": "系统默认"
+  },
+  {
+    "id": 38,
+    "name": "警院西门北门王叔冒菜",
+    "image_url": "https://loremflickr.com/800/600/food?lock=38",
+    "price_per_person": 23,
+    "distance_from_dorm": "二教楼下拐角",
+    "scenarios": [
+      "🏃 赶时间"
+    ],
+    "red_votes": 99,
+    "black_votes": 29,
+    "meme_tags": [
+      "#一锅解决矛盾",
+      "#辣得脑门冒汗",
+      "#肉菜都能要"
+    ],
+    "student_review": "便宜但不敷衍，月末也能吃得像样。",
+    "founder": "@月末省钱大师"
+  },
+  {
+    "id": 39,
+    "name": "外院后门赵师傅锅贴",
+    "image_url": "https://loremflickr.com/800/600/food?lock=39",
+    "price_per_person": 10,
+    "distance_from_dorm": "下课顺路那家",
+    "scenarios": [
+      "🏃 赶时间",
+      "🍚 单人速决"
+    ],
+    "red_votes": 136,
+    "black_votes": 70,
+    "meme_tags": [
+      "#外脆里香",
+      "#一口一个停不下",
+      "#蘸醋更绝",
+      "#三分钟拿餐"
+    ],
+    "student_review": "量够，环境就别按约会标准要求。",
+    "founder": "@热量先欠着"
+  },
+  {
+    "id": 40,
+    "name": "财大南门老地方水饺",
+    "image_url": "https://loremflickr.com/800/600/food?lock=40",
+    "price_per_person": 20,
+    "distance_from_dorm": "校医院斜对面",
+    "scenarios": [
+      "🏃 赶时间",
+      "🍚 单人速决"
+    ],
+    "red_votes": 116,
+    "black_votes": 54,
+    "meme_tags": [
+      "#蘸料是本体",
+      "#吃着像回家",
+      "#北方胃会点头",
+      "#三分钟拿餐",
+      "#赶课也来得及"
+    ],
+    "student_review": "能吃饱没问题，别对装修抱幻想。",
+    "founder": "系统默认"
+  },
+  {
+    "id": 41,
+    "name": "农大北街六块六水饺",
+    "image_url": "https://loremflickr.com/800/600/food?lock=41",
+    "price_per_person": 22,
+    "distance_from_dorm": "后街路口第一家",
+    "scenarios": [
+      "🍻 寝室团建",
+      "🌙 深夜食堂",
+      "🔥 辣到怀疑人生"
+    ],
+    "red_votes": 29,
+    "black_votes": 5,
+    "meme_tags": [
+      "#蘸料是本体",
+      "#吃着像回家",
+      "#北方胃会点头"
+    ],
+    "student_review": "图书馆熬到发木，来这家立刻回魂。",
+    "founder": "系统默认"
+  },
+  {
+    "id": 42,
+    "name": "文学院夜宵巷铁板刘铁板饭",
+    "image_url": "https://loremflickr.com/800/600/food?lock=42",
+    "price_per_person": 11,
+    "distance_from_dorm": "北门快递站后面",
+    "scenarios": [
+      "👩‍❤️‍👨 适合约会",
+      "💸 吃土期（<15元）"
+    ],
+    "red_votes": 94,
+    "black_votes": 3,
+    "meme_tags": [
+      "#滋啦一声很治愈",
+      "#酱汁拌饭王者",
+      "#香到室友抢一口",
+      "#灯光比你会说话"
+    ],
+    "student_review": "室友喊开冲时，这家基本没人反对。",
+    "founder": "系统默认"
+  },
+  {
+    "id": 43,
+    "name": "海事学院后街川渝砂锅饭",
+    "image_url": "https://loremflickr.com/800/600/food?lock=43",
+    "price_per_person": 15,
+    "distance_from_dorm": "距宿舍步行3分钟",
+    "scenarios": [
+      "🏃 赶时间",
+      "🍚 单人速决"
+    ],
+    "red_votes": 130,
+    "black_votes": 54,
+    "meme_tags": [
+      "#锅巴香",
+      "#下课就冲",
+      "#热乎顶饱",
+      "#三分钟拿餐",
+      "#赶课也来得及"
+    ],
+    "student_review": "出餐快是真的，忙起来态度也很直。",
+    "founder": "@选修课摸鱼王"
+  },
+  {
+    "id": 44,
+    "name": "农大北街小高鸡公煲",
+    "image_url": "https://loremflickr.com/800/600/food?lock=44",
+    "price_per_person": 35,
+    "distance_from_dorm": "校医院斜对面",
+    "scenarios": [
+      "📚 图书馆周边",
+      "🍚 单人速决"
+    ],
+    "red_votes": 186,
+    "black_votes": 31,
+    "meme_tags": [
+      "#寝室开会专用",
+      "#越煮越香",
+      "#米饭杀手",
+      "#复习间隙回血",
+      "#背书背饿了就来"
+    ],
+    "student_review": "晚课后冲这家，胃和情绪都被救了。",
+    "founder": "系统默认"
+  },
+  {
+    "id": 45,
+    "name": "海事学院后街满分手抓饼",
+    "image_url": "https://loremflickr.com/800/600/food?lock=45",
+    "price_per_person": 27,
+    "distance_from_dorm": "步行到操场夜景区5分钟",
+    "scenarios": [
+      "👩‍❤️‍👨 适合约会"
+    ],
+    "red_votes": 80,
+    "black_votes": 41,
+    "meme_tags": [
+      "#早八救命",
+      "#边走边炫",
+      "#十块钱的幸福",
+      "#灯光比你会说话",
+      "#双人份不尴尬"
+    ],
+    "student_review": "不算惊艳，但属于想不到雷点那种。",
+    "founder": "@食堂平替研究员"
+  },
+  {
+    "id": 46,
+    "name": "中医药门口六块六烤冷面",
+    "image_url": "https://loremflickr.com/800/600/food?lock=46",
+    "price_per_person": 14,
+    "distance_from_dorm": "距宿舍步行3分钟",
+    "scenarios": [
+      "🔥 辣到怀疑人生",
+      "🍚 单人速决",
+      "🏃 赶时间"
+    ],
+    "red_votes": 122,
+    "black_votes": 38,
+    "meme_tags": [
+      "#晚自习门口常客",
+      "#酸甜口真上瘾",
+      "#加肠才完整",
+      "#辣到醒神"
+    ],
+    "student_review": "一口下去很实在，像被生活放过了。",
+    "founder": "系统默认"
+  },
+  {
+    "id": 47,
+    "name": "交院北门阿姨炒饭",
+    "image_url": "https://loremflickr.com/800/600/food?lock=47",
+    "price_per_person": 21,
+    "distance_from_dorm": "操场边便利店旁",
+    "scenarios": [
+      "🏃 赶时间",
+      "🍚 单人速决"
+    ],
+    "red_votes": 175,
+    "black_votes": 61,
+    "meme_tags": [
+      "#锅气靠谱",
+      "#打包也能吃",
+      "#晚课后不踩雷"
+    ],
+    "student_review": "晚课后冲这家，胃和情绪都被救了。",
+    "founder": "系统默认"
+  },
+  {
+    "id": 48,
+    "name": "体院路口炭火麻辣烫",
+    "image_url": "https://loremflickr.com/800/600/food?lock=48",
+    "price_per_person": 22,
+    "distance_from_dorm": "校医院斜对面",
+    "scenarios": [
+      "🍚 单人速决"
+    ],
+    "red_votes": 86,
+    "black_votes": 13,
+    "meme_tags": [
+      "#菜随便夹",
+      "#辣度不讲武德",
+      "#选菜像做选择题"
+    ],
+    "student_review": "红榜：麻辣烫稳得像学霸平时分。",
+    "founder": "系统默认"
+  },
+  {
+    "id": 49,
+    "name": "城建学院东门满分冒菜",
+    "image_url": "https://loremflickr.com/800/600/food?lock=49",
+    "price_per_person": 11,
+    "distance_from_dorm": "校医院斜对面",
+    "scenarios": [
+      "💸 吃土期（<15元）",
+      "🍚 单人速决"
+    ],
+    "red_votes": 49,
+    "black_votes": 10,
+    "meme_tags": [
+      "#一锅解决矛盾",
+      "#辣得脑门冒汗",
+      "#肉菜都能要",
+      "#十几块能活",
+      "#月末续命"
+    ],
+    "student_review": "图书馆熬到发木，来这家立刻回魂。",
+    "founder": "系统默认"
+  },
+  {
+    "id": 50,
+    "name": "美院斜对面黄记水饺",
+    "image_url": "https://loremflickr.com/800/600/food?lock=50",
+    "price_per_person": 19,
+    "distance_from_dorm": "借书出来拐个弯就到",
+    "scenarios": [
+      "🏃 赶时间",
+      "📚 图书馆周边"
+    ],
+    "red_votes": 119,
+    "black_votes": 74,
+    "meme_tags": [
+      "#蘸料是本体",
+      "#吃着像回家",
+      "#北方胃会点头",
+      "#三分钟拿餐",
+      "#赶课也来得及"
+    ],
+    "student_review": "出餐快是真的，忙起来态度也很直。",
+    "founder": "系统默认"
+  },
+  {
+    "id": 51,
+    "name": "外院后门拌面哥拌面",
+    "image_url": "https://loremflickr.com/800/600/food?lock=51",
+    "price_per_person": 12,
+    "distance_from_dorm": "操场西侧夜市口",
+    "scenarios": [
+      "🌙 深夜食堂"
+    ],
+    "red_votes": 212,
+    "black_votes": 44,
+    "meme_tags": [
+      "#嗦面很解压",
+      "#酱香拉满",
+      "#午休五分钟也能吃",
+      "#十一点后更热闹"
+    ],
+    "student_review": "便宜但不敷衍，月末也能吃得像样。",
+    "founder": "系统默认"
+  },
+  {
+    "id": 52,
+    "name": "医学院后街牛气鸡公煲",
+    "image_url": "https://loremflickr.com/800/600/food?lock=52",
+    "price_per_person": 26,
+    "distance_from_dorm": "操场边便利店旁",
+    "scenarios": [
+      "🔥 辣到怀疑人生",
+      "🍚 单人速决"
+    ],
+    "red_votes": 193,
+    "black_votes": 85,
+    "meme_tags": [
+      "#寝室开会专用",
+      "#越煮越香",
+      "#米饭杀手"
+    ],
+    "student_review": "图书馆熬到发木，来这家立刻回魂。",
+    "founder": "系统默认"
+  },
+  {
+    "id": 53,
+    "name": "城建学院东门黄记小碗菜",
+    "image_url": "https://loremflickr.com/800/600/food?lock=53",
+    "price_per_person": 36,
+    "distance_from_dorm": "南门新开的那条街",
+    "scenarios": [
+      "👩‍❤️‍👨 适合约会"
+    ],
+    "red_votes": 222,
+    "black_votes": 33,
+    "meme_tags": [
+      "#选择困难也能活",
+      "#荤素配得明白",
+      "#食堂平替",
+      "#灯光比你会说话"
+    ],
+    "student_review": "赶时间也能吃热乎的，这点太关键。",
+    "founder": "@高数补考选手"
+  },
+  {
+    "id": 54,
+    "name": "经管楼后排老地方锅贴",
+    "image_url": "https://loremflickr.com/800/600/food?lock=54",
+    "price_per_person": 14,
+    "distance_from_dorm": "宿舍电梯下来直走",
+    "scenarios": [
+      "🏃 赶时间",
+      "🍚 单人速决"
+    ],
+    "red_votes": 92,
+    "black_votes": 50,
+    "meme_tags": [
+      "#外脆里香",
+      "#一口一个停不下",
+      "#蘸醋更绝"
+    ],
+    "student_review": "量够，环境就别按约会标准要求。",
+    "founder": "系统默认"
+  },
+  {
+    "id": 55,
+    "name": "艺术中心后街小高螺蛳粉",
+    "image_url": "https://loremflickr.com/800/600/food?lock=55",
+    "price_per_person": 35,
+    "distance_from_dorm": "夜宵街第二排",
+    "scenarios": [
+      "👩‍❤️‍👨 适合约会",
+      "🍻 寝室团建"
+    ],
+    "red_votes": 157,
+    "black_votes": 81,
+    "meme_tags": [
+      "#味大但真香",
+      "#宿舍慎点",
+      "#酸笋上头",
+      "#灯光比你会说话",
+      "#双人份不尴尬"
+    ],
+    "student_review": "深夜吃是真香，白天吃就普通点。",
+    "founder": "系统默认"
+  },
+  {
+    "id": 56,
+    "name": "体院路口拌面哥拌面",
+    "image_url": "https://loremflickr.com/800/600/food?lock=56",
+    "price_per_person": 24,
+    "distance_from_dorm": "南门新开的那条街",
+    "scenarios": [
+      "📚 图书馆周边",
+      "👩‍❤️‍👨 适合约会"
+    ],
+    "red_votes": 66,
+    "black_votes": 47,
+    "meme_tags": [
+      "#嗦面很解压",
+      "#酱香拉满",
+      "#午休五分钟也能吃",
+      "#复习间隙回血",
+      "#背书背饿了就来"
+    ],
+    "student_review": "不算惊艳，但属于想不到雷点那种。",
+    "founder": "系统默认"
+  },
+  {
+    "id": 57,
+    "name": "警院西门炭火馄饨",
+    "image_url": "https://loremflickr.com/800/600/food?lock=57",
+    "price_per_person": 18,
+    "distance_from_dorm": "操场边便利店旁",
+    "scenarios": [
+      "🍚 单人速决",
+      "🍻 寝室团建"
+    ],
+    "red_votes": 63,
+    "black_votes": 8,
+    "meme_tags": [
+      "#一碗热汤续命",
+      "#清爽不负担",
+      "#早八友好",
+      "#一个人吃也自在"
+    ],
+    "student_review": "图书馆熬到发木，来这家立刻回魂。",
+    "founder": "系统默认"
+  },
+  {
+    "id": 58,
+    "name": "轻工学院宿舍口牛气炸串",
+    "image_url": "https://loremflickr.com/800/600/food?lock=58",
+    "price_per_person": 9,
+    "distance_from_dorm": "宿舍区外卖柜旁",
+    "scenarios": [
+      "🔥 辣到怀疑人生",
+      "🌙 深夜食堂",
+      "💸 吃土期（<15元）"
+    ],
+    "red_votes": 193,
+    "black_votes": 29,
+    "meme_tags": [
+      "#深夜罪恶感",
+      "#排队闻着就饿",
+      "#边走边吃很快乐",
+      "#辣到醒神"
+    ],
+    "student_review": "辣得我冒汗，但真的越吃越上头。",
+    "founder": "系统默认"
+  },
+  {
+    "id": 59,
+    "name": "材料学院侧门林记手抓饼",
+    "image_url": "https://loremflickr.com/800/600/food?lock=59",
+    "price_per_person": 11,
+    "distance_from_dorm": "自习室楼下",
+    "scenarios": [
+      "📚 图书馆周边",
+      "🍚 单人速决"
+    ],
+    "red_votes": 208,
+    "black_votes": 80,
+    "meme_tags": [
+      "#早八救命",
+      "#边走边炫",
+      "#十块钱的幸福",
+      "#复习间隙回血",
+      "#背书背饿了就来"
+    ],
+    "student_review": "便宜但不敷衍，月末也能吃得像样。",
+    "founder": "@减肥明天开始"
+  },
+  {
+    "id": 60,
+    "name": "研究生公寓外胖嫂牛肉粉",
+    "image_url": "https://loremflickr.com/800/600/food?lock=60",
+    "price_per_person": 14,
+    "distance_from_dorm": "操场边便利店旁",
+    "scenarios": [
+      "🏃 赶时间",
+      "🍚 单人速决"
+    ],
+    "red_votes": 183,
+    "black_votes": 95,
+    "meme_tags": [
+      "#汤底在线",
+      "#吸溜两口回魂",
+      "#牛肉比想象多",
+      "#三分钟拿餐"
+    ],
+    "student_review": "红榜：牛肉粉稳得像学霸平时分。",
+    "founder": "系统默认"
+  },
+  {
+    "id": 61,
+    "name": "软件园校区南口周记拌面",
+    "image_url": "https://loremflickr.com/800/600/food?lock=61",
+    "price_per_person": 17,
+    "distance_from_dorm": "校门口最后收摊的一排",
+    "scenarios": [
+      "🔥 辣到怀疑人生",
+      "🌙 深夜食堂"
+    ],
+    "red_votes": 114,
+    "black_votes": 82,
+    "meme_tags": [
+      "#嗦面很解压",
+      "#酱香拉满",
+      "#午休五分钟也能吃"
+    ],
+    "student_review": "不算惊艳，但属于想不到雷点那种。",
+    "founder": "系统默认"
+  },
+  {
+    "id": 62,
+    "name": "医学院后街小高煲仔饭",
+    "image_url": "https://loremflickr.com/800/600/food?lock=62",
+    "price_per_person": 23,
+    "distance_from_dorm": "校门口最后收摊的一排",
+    "scenarios": [
+      "🔥 辣到怀疑人生",
+      "🌙 深夜食堂"
+    ],
+    "red_votes": 88,
+    "black_votes": 69,
+    "meme_tags": [
+      "#焦香很上头",
+      "#等得久但值",
+      "#酱油拌饭灵魂"
+    ],
+    "student_review": "不算惊艳，但属于想不到雷点那种。",
+    "founder": "@奶茶戒断失败"
+  },
+  {
+    "id": 63,
+    "name": "传媒学院旁周记米线",
+    "image_url": "https://loremflickr.com/800/600/food?lock=63",
+    "price_per_person": 14,
+    "distance_from_dorm": "出北门右转就到",
+    "scenarios": [
+      "🏃 赶时间",
+      "📚 图书馆周边"
+    ],
+    "red_votes": 118,
+    "black_votes": 50,
+    "meme_tags": [
+      "#滑溜好入口",
+      "#汤喝完刚刚好",
+      "#趁热吃最稳",
+      "#三分钟拿餐"
+    ],
+    "student_review": "深夜吃是真香，白天吃就普通点。",
+    "founder": "系统默认"
+  },
+  {
+    "id": 64,
+    "name": "商学院小吃街小高水饺",
+    "image_url": "https://loremflickr.com/800/600/food?lock=64",
+    "price_per_person": 12,
+    "distance_from_dorm": "从打印店往里走20米",
+    "scenarios": [
+      "💸 吃土期（<15元）",
+      "🍚 单人速决",
+      "🏃 赶时间"
+    ],
+    "red_votes": 57,
+    "black_votes": 49,
+    "meme_tags": [
+      "#蘸料是本体",
+      "#吃着像回家",
+      "#北方胃会点头",
+      "#十几块能活"
+    ],
+    "student_review": "深夜吃是真香，白天吃就普通点。",
+    "founder": "系统默认"
+  },
+  {
+    "id": 65,
+    "name": "工大南一门老地方水饺",
+    "image_url": "https://loremflickr.com/800/600/food?lock=65",
+    "price_per_person": 25,
+    "distance_from_dorm": "夜宵街第二排",
+    "scenarios": [
+      "🍻 寝室团建",
+      "🌙 深夜食堂"
+    ],
+    "red_votes": 226,
+    "black_votes": 58,
+    "meme_tags": [
+      "#蘸料是本体",
+      "#吃着像回家",
+      "#北方胃会点头",
+      "#四个人点最爽"
+    ],
+    "student_review": "辣得我冒汗，但真的越吃越上头。",
+    "founder": "系统默认"
+  },
+  {
+    "id": 66,
+    "name": "师范苑黄记小碗菜",
+    "image_url": "https://loremflickr.com/800/600/food?lock=66",
+    "price_per_person": 13,
+    "distance_from_dorm": "研究生公寓对面",
+    "scenarios": [
+      "🌙 深夜食堂",
+      "💸 吃土期（<15元）",
+      "🍻 寝室团建"
+    ],
+    "red_votes": 130,
+    "black_votes": 53,
+    "meme_tags": [
+      "#选择困难也能活",
+      "#荤素配得明白",
+      "#食堂平替"
+    ],
+    "student_review": "出餐快是真的，忙起来态度也很直。",
+    "founder": "系统默认"
+  },
+  {
+    "id": 67,
+    "name": "中医药门口炭火小碗菜",
+    "image_url": "https://loremflickr.com/800/600/food?lock=67",
+    "price_per_person": 27,
+    "distance_from_dorm": "研究生公寓对面",
+    "scenarios": [
+      "👩‍❤️‍👨 适合约会",
+      "🍻 寝室团建"
+    ],
+    "red_votes": 118,
+    "black_votes": 5,
+    "meme_tags": [
+      "#选择困难也能活",
+      "#荤素配得明白",
+      "#食堂平替",
+      "#灯光比你会说话"
+    ],
+    "student_review": "一口下去很实在，像被生活放过了。",
+    "founder": "系统默认"
+  },
+  {
+    "id": 68,
+    "name": "商学院小吃街阿强米线",
+    "image_url": "https://loremflickr.com/800/600/food?lock=68",
+    "price_per_person": 16,
+    "distance_from_dorm": "校门口最后收摊的一排",
+    "scenarios": [
+      "📚 图书馆周边",
+      "🍚 单人速决",
+      "🌙 深夜食堂"
+    ],
+    "red_votes": 237,
+    "black_votes": 83,
+    "meme_tags": [
+      "#滑溜好入口",
+      "#汤喝完刚刚好",
+      "#趁热吃最稳"
+    ],
+    "student_review": "晚课后冲这家，胃和情绪都被救了。",
+    "founder": "系统默认"
+  },
+  {
+    "id": 69,
+    "name": "医学院后街周记米线",
+    "image_url": "https://loremflickr.com/800/600/food?lock=69",
+    "price_per_person": 21,
+    "distance_from_dorm": "出北门右转就到",
+    "scenarios": [
+      "🏃 赶时间",
+      "🍚 单人速决",
+      "📚 图书馆周边"
+    ],
+    "red_votes": 182,
+    "black_votes": 53,
+    "meme_tags": [
+      "#滑溜好入口",
+      "#汤喝完刚刚好",
+      "#趁热吃最稳",
+      "#三分钟拿餐"
+    ],
+    "student_review": "室友喊开冲时，这家基本没人反对。",
+    "founder": "@今天也在省钱"
+  },
+  {
+    "id": 70,
+    "name": "体院路口胖嫂烤肉饭",
+    "image_url": "https://loremflickr.com/800/600/food?lock=70",
+    "price_per_person": 29,
+    "distance_from_dorm": "二教楼下拐角",
+    "scenarios": [
+      "🏃 赶时间",
+      "🌙 深夜食堂"
+    ],
+    "red_votes": 130,
+    "black_votes": 59,
+    "meme_tags": [
+      "#肉量能打",
+      "#酱香控集合",
+      "#打工人快乐饭"
+    ],
+    "student_review": "深夜吃是真香，白天吃就普通点。",
+    "founder": "系统默认"
+  },
+  {
+    "id": 71,
+    "name": "实验楼拐角周记炒饭",
+    "image_url": "https://loremflickr.com/800/600/food?lock=71",
+    "price_per_person": 30,
+    "distance_from_dorm": "靠近校园咖啡馆那排",
+    "scenarios": [
+      "👩‍❤️‍👨 适合约会",
+      "🍻 寝室团建"
+    ],
+    "red_votes": 99,
+    "black_votes": 18,
+    "meme_tags": [
+      "#锅气靠谱",
+      "#打包也能吃",
+      "#晚课后不踩雷"
+    ],
+    "student_review": "室友喊开冲时，这家基本没人反对。",
+    "founder": "系统默认"
+  },
+  {
+    "id": 72,
+    "name": "海事学院后街炭火小碗菜",
+    "image_url": "https://loremflickr.com/800/600/food?lock=72",
+    "price_per_person": 21,
+    "distance_from_dorm": "南门外烧烤一条街",
+    "scenarios": [
+      "🍻 寝室团建",
+      "🔥 辣到怀疑人生"
+    ],
+    "red_votes": 70,
+    "black_votes": 23,
+    "meme_tags": [
+      "#选择困难也能活",
+      "#荤素配得明白",
+      "#食堂平替",
+      "#四个人点最爽",
+      "#室友一致通过"
+    ],
+    "student_review": "一口下去很实在，像被生活放过了。",
+    "founder": "系统默认"
+  },
+  {
+    "id": 73,
+    "name": "体院路口铁板刘麻辣烫",
+    "image_url": "https://loremflickr.com/800/600/food?lock=73",
+    "price_per_person": 23,
+    "distance_from_dorm": "小吃街红招牌下面",
+    "scenarios": [
+      "🔥 辣到怀疑人生",
+      "🌙 深夜食堂"
+    ],
+    "red_votes": 210,
+    "black_votes": 52,
+    "meme_tags": [
+      "#菜随便夹",
+      "#辣度不讲武德",
+      "#选菜像做选择题",
+      "#辣到醒神",
+      "#纸巾消耗大户"
+    ],
+    "student_review": "室友喊开冲时，这家基本没人反对。",
+    "founder": "系统默认"
+  },
+  {
+    "id": 74,
+    "name": "中医药门口老地方炒饭",
+    "image_url": "https://loremflickr.com/800/600/food?lock=74",
+    "price_per_person": 18,
+    "distance_from_dorm": "距宿舍步行3分钟",
+    "scenarios": [
+      "🏃 赶时间",
+      "📚 图书馆周边"
+    ],
+    "red_votes": 231,
+    "black_votes": 14,
+    "meme_tags": [
+      "#锅气靠谱",
+      "#打包也能吃",
+      "#晚课后不踩雷",
+      "#三分钟拿餐",
+      "#赶课也来得及"
+    ],
+    "student_review": "赶时间也能吃热乎的，这点太关键。",
+    "founder": "系统默认"
+  },
+  {
+    "id": 75,
+    "name": "软件园校区南口阿强煲仔饭",
+    "image_url": "https://loremflickr.com/800/600/food?lock=75",
+    "price_per_person": 28,
+    "distance_from_dorm": "南门巷子尽头",
+    "scenarios": [
+      "🔥 辣到怀疑人生",
+      "🍚 单人速决"
+    ],
+    "red_votes": 54,
+    "black_votes": 34,
+    "meme_tags": [
+      "#焦香很上头",
+      "#等得久但值",
+      "#酱油拌饭灵魂"
+    ],
+    "student_review": "辣得我冒汗，但真的越吃越上头。",
+    "founder": "系统默认"
+  },
+  {
+    "id": 76,
+    "name": "体育馆东巷北门王叔煲仔饭",
+    "image_url": "https://loremflickr.com/800/600/food?lock=76",
+    "price_per_person": 25,
+    "distance_from_dorm": "二教楼下拐角",
+    "scenarios": [
+      "🏃 赶时间",
+      "🌙 深夜食堂"
+    ],
+    "red_votes": 115,
+    "black_votes": 3,
+    "meme_tags": [
+      "#焦香很上头",
+      "#等得久但值",
+      "#酱油拌饭灵魂",
+      "#三分钟拿餐",
+      "#赶课也来得及"
+    ],
+    "student_review": "赶时间也能吃热乎的，这点太关键。",
+    "founder": "系统默认"
+  },
+  {
+    "id": 77,
+    "name": "师大东门林记馄饨",
+    "image_url": "https://loremflickr.com/800/600/food?lock=77",
+    "price_per_person": 26,
+    "distance_from_dorm": "人工湖边上",
+    "scenarios": [
+      "👩‍❤️‍👨 适合约会"
+    ],
+    "red_votes": 226,
+    "black_votes": 10,
+    "meme_tags": [
+      "#一碗热汤续命",
+      "#清爽不负担",
+      "#早八友好",
+      "#灯光比你会说话"
+    ],
+    "student_review": "赶时间也能吃热乎的，这点太关键。",
+    "founder": "@没课就去吃"
+  },
+  {
+    "id": 78,
+    "name": "警院西门满分馄饨",
+    "image_url": "https://loremflickr.com/800/600/food?lock=78",
+    "price_per_person": 12,
+    "distance_from_dorm": "宿舍区外卖柜旁",
+    "scenarios": [
+      "🌙 深夜食堂"
+    ],
+    "red_votes": 148,
+    "black_votes": 56,
+    "meme_tags": [
+      "#一碗热汤续命",
+      "#清爽不负担",
+      "#早八友好",
+      "#十一点后更热闹"
+    ],
+    "student_review": "晚课后冲这家，胃和情绪都被救了。",
+    "founder": "系统默认"
+  },
+  {
+    "id": 79,
+    "name": "师大东门阿强盖浇饭",
+    "image_url": "https://loremflickr.com/800/600/food?lock=79",
+    "price_per_person": 24,
+    "distance_from_dorm": "出北门右转就到",
+    "scenarios": [
+      "🏃 赶时间",
+      "🍚 单人速决"
+    ],
+    "red_votes": 179,
+    "black_votes": 3,
+    "meme_tags": [
+      "#出餐快得离谱",
+      "#肉汁拌饭很稳",
+      "#平价但不敷衍",
+      "#三分钟拿餐"
+    ],
+    "student_review": "室友喊开冲时，这家基本没人反对。",
+    "founder": "系统默认"
+  },
+  {
+    "id": 80,
+    "name": "中医药门口六块六米线",
+    "image_url": "https://loremflickr.com/800/600/food?lock=80",
+    "price_per_person": 11,
+    "distance_from_dorm": "旧食堂旁边那排小店",
+    "scenarios": [
+      "🌙 深夜食堂",
+      "💸 吃土期（<15元）",
+      "🍚 单人速决"
+    ],
+    "red_votes": 195,
+    "black_votes": 19,
+    "meme_tags": [
+      "#滑溜好入口",
+      "#汤喝完刚刚好",
+      "#趁热吃最稳"
+    ],
+    "student_review": "晚课后冲这家，胃和情绪都被救了。",
+    "founder": "系统默认"
+  },
+  {
+    "id": 81,
+    "name": "信息学院北门陈姐炒饭",
+    "image_url": "https://loremflickr.com/800/600/food?lock=81",
+    "price_per_person": 29,
+    "distance_from_dorm": "靠近校园咖啡馆那排",
+    "scenarios": [
+      "🏃 赶时间",
+      "👩‍❤️‍👨 适合约会"
+    ],
+    "red_votes": 121,
+    "black_votes": 83,
+    "meme_tags": [
+      "#锅气靠谱",
+      "#打包也能吃",
+      "#晚课后不踩雷"
+    ],
+    "student_review": "不算惊艳，但属于想不到雷点那种。",
+    "founder": "@通宵后补糖分"
+  },
+  {
+    "id": 82,
+    "name": "体院路口炭火炸串",
+    "image_url": "https://loremflickr.com/800/600/food?lock=82",
+    "price_per_person": 27,
+    "distance_from_dorm": "靠近校园咖啡馆那排",
+    "scenarios": [
+      "👩‍❤️‍👨 适合约会",
+      "🍻 寝室团建",
+      "🔥 辣到怀疑人生"
+    ],
+    "red_votes": 205,
+    "black_votes": 82,
+    "meme_tags": [
+      "#深夜罪恶感",
+      "#排队闻着就饿",
+      "#边走边吃很快乐"
+    ],
+    "student_review": "辣得我冒汗，但真的越吃越上头。",
+    "founder": "系统默认"
+  },
+  {
+    "id": 83,
+    "name": "体育馆东巷胖嫂水饺",
+    "image_url": "https://loremflickr.com/800/600/food?lock=83",
+    "price_per_person": 10,
+    "distance_from_dorm": "文科楼和图书馆之间",
+    "scenarios": [
+      "📚 图书馆周边",
+      "💸 吃土期（<15元）"
+    ],
+    "red_votes": 110,
+    "black_votes": 44,
+    "meme_tags": [
+      "#蘸料是本体",
+      "#吃着像回家",
+      "#北方胃会点头",
+      "#复习间隙回血"
+    ],
+    "student_review": "味道在线，高峰期排队能劝退人。",
+    "founder": "系统默认"
+  },
+  {
+    "id": 84,
+    "name": "城建学院东门林记小碗菜",
+    "image_url": "https://loremflickr.com/800/600/food?lock=84",
+    "price_per_person": 20,
+    "distance_from_dorm": "小吃街红招牌下面",
+    "scenarios": [
+      "🍻 寝室团建",
+      "🔥 辣到怀疑人生"
+    ],
+    "red_votes": 201,
+    "black_votes": 93,
+    "meme_tags": [
+      "#选择困难也能活",
+      "#荤素配得明白",
+      "#食堂平替",
+      "#四个人点最爽"
+    ],
+    "student_review": "图书馆熬到发木，来这家立刻回魂。",
+    "founder": "系统默认"
+  },
+  {
+    "id": 85,
+    "name": "材料学院侧门锅气烤冷面",
+    "image_url": "https://loremflickr.com/800/600/food?lock=85",
+    "price_per_person": 15,
+    "distance_from_dorm": "从教学楼冲过去2分钟",
+    "scenarios": [
+      "🏃 赶时间",
+      "🌙 深夜食堂"
+    ],
+    "red_votes": 219,
+    "black_votes": 6,
+    "meme_tags": [
+      "#晚自习门口常客",
+      "#酸甜口真上瘾",
+      "#加肠才完整",
+      "#三分钟拿餐",
+      "#赶课也来得及"
+    ],
+    "student_review": "一口下去很实在，像被生活放过了。",
+    "founder": "@寝室楼下侦察兵"
+  },
+  {
+    "id": 86,
+    "name": "新传院北门赵师傅米线",
+    "image_url": "https://loremflickr.com/800/600/food?lock=86",
+    "price_per_person": 12,
+    "distance_from_dorm": "宿舍电梯下来直走",
+    "scenarios": [
+      "💸 吃土期（<15元）",
+      "🍚 单人速决",
+      "👩‍❤️‍👨 适合约会"
+    ],
+    "red_votes": 151,
+    "black_votes": 30,
+    "meme_tags": [
+      "#滑溜好入口",
+      "#汤喝完刚刚好",
+      "#趁热吃最稳",
+      "#十几块能活",
+      "#月末续命"
+    ],
+    "student_review": "晚课后冲这家，胃和情绪都被救了。",
+    "founder": "系统默认"
+  },
+  {
+    "id": 87,
+    "name": "工大南一门周记牛肉粉",
+    "image_url": "https://loremflickr.com/800/600/food?lock=87",
+    "price_per_person": 20,
+    "distance_from_dorm": "研究生公寓对面",
+    "scenarios": [
+      "🍻 寝室团建",
+      "🌙 深夜食堂"
+    ],
+    "red_votes": 235,
+    "black_votes": 8,
+    "meme_tags": [
+      "#汤底在线",
+      "#吸溜两口回魂",
+      "#牛肉比想象多",
+      "#四个人点最爽",
+      "#室友一致通过"
+    ],
+    "student_review": "便宜但不敷衍，月末也能吃得像样。",
+    "founder": "系统默认"
+  },
+  {
+    "id": 88,
+    "name": "化院宿舍口小高炒饭",
+    "image_url": "https://loremflickr.com/800/600/food?lock=88",
+    "price_per_person": 26,
+    "distance_from_dorm": "小吃街红招牌下面",
+    "scenarios": [
+      "🍻 寝室团建",
+      "🔥 辣到怀疑人生"
+    ],
+    "red_votes": 118,
+    "black_votes": 3,
+    "meme_tags": [
+      "#锅气靠谱",
+      "#打包也能吃",
+      "#晚课后不踩雷",
+      "#四个人点最爽",
+      "#室友一致通过"
+    ],
+    "student_review": "红榜：炒饭稳得像学霸平时分。",
+    "founder": "@周五必出门"
+  },
+  {
+    "id": 89,
+    "name": "经管楼后排北门王叔水饺",
+    "image_url": "https://loremflickr.com/800/600/food?lock=89",
+    "price_per_person": 21,
+    "distance_from_dorm": "自习室楼下",
+    "scenarios": [
+      "📚 图书馆周边",
+      "🍚 单人速决"
+    ],
+    "red_votes": 145,
+    "black_votes": 87,
+    "meme_tags": [
+      "#蘸料是本体",
+      "#吃着像回家",
+      "#北方胃会点头"
+    ],
+    "student_review": "味道在线，高峰期排队能劝退人。",
+    "founder": "系统默认"
+  },
+  {
+    "id": 90,
+    "name": "中医药门口陈姐手抓饼",
+    "image_url": "https://loremflickr.com/800/600/food?lock=90",
+    "price_per_person": 10,
+    "distance_from_dorm": "宿舍区外卖柜旁",
+    "scenarios": [
+      "🌙 深夜食堂"
+    ],
+    "red_votes": 177,
+    "black_votes": 71,
+    "meme_tags": [
+      "#早八救命",
+      "#边走边炫",
+      "#十块钱的幸福",
+      "#十一点后更热闹",
+      "#夜猫子集合"
+    ],
+    "student_review": "室友喊开冲时，这家基本没人反对。",
+    "founder": "@会计期中别来沾边"
+  },
+  {
+    "id": 91,
+    "name": "美院斜对面满分米线",
+    "image_url": "https://loremflickr.com/800/600/food?lock=91",
+    "price_per_person": 20,
+    "distance_from_dorm": "出北门右转就到",
+    "scenarios": [
+      "🏃 赶时间",
+      "🍚 单人速决"
+    ],
+    "red_votes": 98,
+    "black_votes": 87,
+    "meme_tags": [
+      "#滑溜好入口",
+      "#汤喝完刚刚好",
+      "#趁热吃最稳",
+      "#三分钟拿餐"
+    ],
+    "student_review": "量够，环境就别按约会标准要求。",
+    "founder": "系统默认"
+  },
+  {
+    "id": 92,
+    "name": "体育馆东巷陈姐米线",
+    "image_url": "https://loremflickr.com/800/600/food?lock=92",
+    "price_per_person": 25,
+    "distance_from_dorm": "人工湖边上",
+    "scenarios": [
+      "👩‍❤️‍👨 适合约会",
+      "🍻 寝室团建",
+      "🌙 深夜食堂"
+    ],
+    "red_votes": 63,
+    "black_votes": 18,
+    "meme_tags": [
+      "#滑溜好入口",
+      "#汤喝完刚刚好",
+      "#趁热吃最稳",
+      "#灯光比你会说话"
+    ],
+    "student_review": "一口下去很实在，像被生活放过了。",
+    "founder": "@图书馆钉子户"
+  },
+  {
+    "id": 93,
+    "name": "新传院北门陈姐牛肉粉",
+    "image_url": "https://loremflickr.com/800/600/food?lock=93",
+    "price_per_person": 15,
+    "distance_from_dorm": "从教学楼冲过去2分钟",
+    "scenarios": [
+      "🏃 赶时间"
+    ],
+    "red_votes": 105,
+    "black_votes": 80,
+    "meme_tags": [
+      "#汤底在线",
+      "#吸溜两口回魂",
+      "#牛肉比想象多",
+      "#三分钟拿餐"
+    ],
+    "student_review": "能吃饱没问题，别对装修抱幻想。",
+    "founder": "@晚课存活样本"
+  },
+  {
+    "id": 94,
+    "name": "体育馆东巷铁板刘烤肉饭",
+    "image_url": "https://loremflickr.com/800/600/food?lock=94",
+    "price_per_person": 23,
+    "distance_from_dorm": "从教学楼冲过去2分钟",
+    "scenarios": [
+      "🏃 赶时间",
+      "🌙 深夜食堂"
+    ],
+    "red_votes": 104,
+    "black_votes": 62,
+    "meme_tags": [
+      "#肉量能打",
+      "#酱香控集合",
+      "#打工人快乐饭",
+      "#三分钟拿餐"
+    ],
+    "student_review": "不算惊艳，但属于想不到雷点那种。",
+    "founder": "@不想上早课"
+  },
+  {
+    "id": 95,
+    "name": "商学院小吃街北门王叔米线",
+    "image_url": "https://loremflickr.com/800/600/food?lock=95",
+    "price_per_person": 15,
+    "distance_from_dorm": "文科楼和图书馆之间",
+    "scenarios": [
+      "🏃 赶时间",
+      "📚 图书馆周边"
+    ],
+    "red_votes": 91,
+    "black_votes": 61,
+    "meme_tags": [
+      "#滑溜好入口",
+      "#汤喝完刚刚好",
+      "#趁热吃最稳",
+      "#三分钟拿餐",
+      "#赶课也来得及"
+    ],
+    "student_review": "深夜吃是真香，白天吃就普通点。",
+    "founder": "@社恐独食家"
+  },
+  {
+    "id": 96,
+    "name": "艺术中心后街黄记锅贴",
+    "image_url": "https://loremflickr.com/800/600/food?lock=96",
+    "price_per_person": 16,
+    "distance_from_dorm": "食堂旁边小过道",
+    "scenarios": [
+      "🔥 辣到怀疑人生",
+      "🍚 单人速决",
+      "📚 图书馆周边"
+    ],
+    "red_votes": 215,
+    "black_votes": 21,
+    "meme_tags": [
+      "#外脆里香",
+      "#一口一个停不下",
+      "#蘸醋更绝",
+      "#辣到醒神"
+    ],
+    "student_review": "图书馆熬到发木，来这家立刻回魂。",
+    "founder": "@早八逃兵"
+  },
+  {
+    "id": 97,
+    "name": "经管楼后排老地方烤肉饭",
+    "image_url": "https://loremflickr.com/800/600/food?lock=97",
+    "price_per_person": 11,
+    "distance_from_dorm": "从打印店往里走20米",
+    "scenarios": [
+      "💸 吃土期（<15元）",
+      "🍚 单人速决"
+    ],
+    "red_votes": 193,
+    "black_votes": 32,
+    "meme_tags": [
+      "#肉量能打",
+      "#酱香控集合",
+      "#打工人快乐饭"
+    ],
+    "student_review": "便宜但不敷衍，月末也能吃得像样。",
+    "founder": "系统默认"
+  },
+  {
+    "id": 98,
+    "name": "理工西门陈姐炸串",
+    "image_url": "https://loremflickr.com/800/600/food?lock=98",
+    "price_per_person": 23,
+    "distance_from_dorm": "出北门右转就到",
+    "scenarios": [
+      "🏃 赶时间",
+      "📚 图书馆周边"
+    ],
+    "red_votes": 74,
+    "black_votes": 61,
+    "meme_tags": [
+      "#深夜罪恶感",
+      "#排队闻着就饿",
+      "#边走边吃很快乐",
+      "#三分钟拿餐",
+      "#赶课也来得及"
+    ],
+    "student_review": "量够，环境就别按约会标准要求。",
+    "founder": "@期末抱佛脚"
+  },
+  {
+    "id": 99,
+    "name": "美院斜对面锅气盖浇饭",
+    "image_url": "https://loremflickr.com/800/600/food?lock=99",
+    "price_per_person": 22,
+    "distance_from_dorm": "一教和宿舍中间",
+    "scenarios": [
+      "🏃 赶时间"
+    ],
+    "red_votes": 221,
+    "black_votes": 84,
+    "meme_tags": [
+      "#出餐快得离谱",
+      "#肉汁拌饭很稳",
+      "#平价但不敷衍"
+    ],
+    "student_review": "晚课后冲这家，胃和情绪都被救了。",
+    "founder": "@论文ddl受害者"
+  },
+  {
+    "id": 100,
+    "name": "文学院夜宵巷老地方手抓饼",
+    "image_url": "https://loremflickr.com/800/600/food?lock=100",
+    "price_per_person": 25,
+    "distance_from_dorm": "艺术中心后面",
+    "scenarios": [
+      "👩‍❤️‍👨 适合约会"
+    ],
+    "red_votes": 43,
+    "black_votes": 26,
+    "meme_tags": [
+      "#早八救命",
+      "#边走边炫",
+      "#十块钱的幸福",
+      "#灯光比你会说话"
+    ],
+    "student_review": "赶时间也能吃热乎的，这点太关键。",
+    "founder": "@寝室气氛组"
+  }
+]
