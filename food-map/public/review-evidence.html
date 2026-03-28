@@ -1,0 +1,294 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Project Context and Review Evidence</title>
+    <meta
+      name="description"
+      content="Context page for Google review. This website is a student project created for a Meituan summer internship coding test."
+    />
+    <style>
+      :root {
+        --paper: #f6f0e3;
+        --ink: #1f1d1a;
+        --accent: #ffb400;
+        --accent-deep: #a55a00;
+        --card: rgba(255, 255, 255, 0.8);
+        --line: rgba(31, 29, 26, 0.12);
+        --shadow: 0 18px 60px rgba(64, 38, 4, 0.14);
+      }
+
+      * {
+        box-sizing: border-box;
+      }
+
+      body {
+        margin: 0;
+        font-family: Georgia, "Times New Roman", serif;
+        color: var(--ink);
+        background:
+          radial-gradient(circle at top, rgba(255, 212, 102, 0.65), transparent 34%),
+          linear-gradient(180deg, #fff9ef 0%, var(--paper) 100%);
+      }
+
+      a {
+        color: inherit;
+      }
+
+      .page {
+        width: min(1120px, calc(100% - 32px));
+        margin: 0 auto;
+        padding: 40px 0 72px;
+      }
+
+      .hero,
+      .panel,
+      .figure {
+        background: var(--card);
+        backdrop-filter: blur(10px);
+        border: 1px solid var(--line);
+        box-shadow: var(--shadow);
+      }
+
+      .hero {
+        border-radius: 28px;
+        padding: 28px;
+      }
+
+      .eyebrow {
+        display: inline-block;
+        margin-bottom: 16px;
+        padding: 8px 12px;
+        border-radius: 999px;
+        background: rgba(255, 180, 0, 0.15);
+        color: var(--accent-deep);
+        font: 700 12px/1.1 Arial, sans-serif;
+        letter-spacing: 0.14em;
+        text-transform: uppercase;
+      }
+
+      h1,
+      h2 {
+        margin: 0;
+        font-weight: 700;
+        line-height: 1.05;
+      }
+
+      h1 {
+        max-width: 10ch;
+        font-size: clamp(2.4rem, 6vw, 4.8rem);
+      }
+
+      .lede {
+        max-width: 66ch;
+        margin: 18px 0 0;
+        font-size: 1.08rem;
+        line-height: 1.8;
+      }
+
+      .hero-grid,
+      .details,
+      .gallery {
+        display: grid;
+        gap: 20px;
+      }
+
+      .hero-grid {
+        grid-template-columns: 1.35fr 0.95fr;
+        align-items: start;
+      }
+
+      .details {
+        margin-top: 24px;
+        grid-template-columns: repeat(3, minmax(0, 1fr));
+      }
+
+      .panel {
+        border-radius: 22px;
+        padding: 20px;
+      }
+
+      .panel h2 {
+        font-size: 1.2rem;
+        margin-bottom: 12px;
+      }
+
+      .panel p,
+      .panel li {
+        margin: 0;
+        font-size: 1rem;
+        line-height: 1.7;
+      }
+
+      .panel ul {
+        margin: 0;
+        padding-left: 20px;
+      }
+
+      .cta {
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        margin-top: 24px;
+        padding: 14px 20px;
+        border-radius: 999px;
+        background: var(--accent);
+        color: #1f1d1a;
+        font: 700 0.98rem/1 Arial, sans-serif;
+        text-decoration: none;
+      }
+
+      .gallery {
+        margin-top: 28px;
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+      }
+
+      .figure {
+        overflow: hidden;
+        border-radius: 22px;
+      }
+
+      .figure img {
+        display: block;
+        width: 100%;
+        height: auto;
+        background: #fff;
+      }
+
+      .caption {
+        padding: 16px 18px 18px;
+      }
+
+      .caption strong {
+        display: block;
+        margin-bottom: 6px;
+        font-size: 1rem;
+      }
+
+      .caption span {
+        display: block;
+        font-size: 0.95rem;
+        line-height: 1.6;
+        color: rgba(31, 29, 26, 0.78);
+      }
+
+      .footer {
+        margin-top: 24px;
+        font-size: 0.95rem;
+        line-height: 1.7;
+        color: rgba(31, 29, 26, 0.76);
+      }
+
+      @media (max-width: 860px) {
+        .hero-grid,
+        .details,
+        .gallery {
+          grid-template-columns: 1fr;
+        }
+
+        .page {
+          width: min(100% - 24px, 1120px);
+          padding-top: 24px;
+        }
+
+        .hero,
+        .panel {
+          padding: 20px;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <main class="page">
+      <section class="hero">
+        <div class="hero-grid">
+          <div>
+            <span class="eyebrow">For Google Review</span>
+            <h1>Project Context and Source Evidence</h1>
+            <p class="lede">
+              This website is a student project created for a Meituan summer internship coding
+              test. The assignment is to build a food-search website for university students. This
+              site is not an official Meituan service page, and it does not ask users for
+              passwords, payment details, downloads, or other sensitive information.
+            </p>
+            <a class="cta" href="./">Open the project homepage</a>
+          </div>
+
+          <div class="panel">
+            <h2>Why this page exists</h2>
+            <p>
+              This page is provided to make the purpose of the project easy to verify during site
+              review. Below are screenshots of the original recruitment task and English
+              translations.
+            </p>
+          </div>
+        </div>
+
+        <div class="details">
+          <article class="panel">
+            <h2>Project type</h2>
+            <p>Student portfolio / internship assessment project.</p>
+          </article>
+          <article class="panel">
+            <h2>Audience</h2>
+            <p>University students looking for nearby food options.</p>
+          </article>
+          <article class="panel">
+            <h2>Safety statement</h2>
+            <ul>
+              <li>No login or password collection.</li>
+              <li>No payment or banking requests.</li>
+              <li>No software downloads or deceptive prompts.</li>
+            </ul>
+          </article>
+        </div>
+      </section>
+
+      <section class="gallery" aria-label="Evidence screenshots">
+        <figure class="figure">
+          <img src="review/meituan-1.png" alt="Original Meituan internship task screenshot part 1" />
+          <figcaption class="caption">
+            <strong>Original task screenshot 1</strong>
+            <span>Source material showing the internship assignment requirement.</span>
+          </figcaption>
+        </figure>
+
+        <figure class="figure">
+          <img
+            src="review/meituan1-translate.png"
+            alt="English translation of Meituan internship task screenshot part 1"
+          />
+          <figcaption class="caption">
+            <strong>English translation 1</strong>
+            <span>Translated explanation of the first task screenshot.</span>
+          </figcaption>
+        </figure>
+
+        <figure class="figure">
+          <img src="review/meituan2.jpg" alt="Original Meituan internship task screenshot part 2" />
+          <figcaption class="caption">
+            <strong>Original task screenshot 2</strong>
+            <span>Additional source material from the recruitment requirement.</span>
+          </figcaption>
+        </figure>
+
+        <figure class="figure">
+          <img
+            src="review/meituan2tranlate.png"
+            alt="English translation of Meituan internship task screenshot part 2"
+          />
+          <figcaption class="caption">
+            <strong>English translation 2</strong>
+            <span>Translated explanation of the second task screenshot.</span>
+          </figcaption>
+        </figure>
+      </section>
+
+      <p class="footer">
+        Review page URL:
+        <a href="./review-evidence.html">review-evidence.html</a>
+      </p>
+    </main>
+  </body>
+</html>
